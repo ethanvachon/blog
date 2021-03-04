@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://ethanvachon.github.io/blogsitemap.xml
